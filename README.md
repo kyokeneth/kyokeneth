@@ -8,5 +8,5 @@
 - [Email](mailto:kyokeneth@gmail.com)
 - [Twitter](https://twitter.com/kyokeneth)
 - [Instagram](https://www.instagram.com/kyokeneth)
-- [LinkedIn](www.linkedin.com/in/kyokeneth)
+- [LinkedIn](https://www.linkedin.com/in/kyokeneth)
 - 😄 Pronouns: He/Him
