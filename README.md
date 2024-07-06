@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my bachelor degree.
-- 🌱 I’m currently learning front end tecnologies.
+- 🌱 I’m currently learning Data Science tecnologies.
 
 # 📫 How to contact me:
 - [Email](mailto:kyokeneth@gmail.com)
